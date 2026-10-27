@@ -1,0 +1,18 @@
+{
+  "name": "C&F Solutions",
+  "legalName": "C&F Solutions LLC",
+  "tagline": "Software for home service companies.",
+  "about": "C&F Solutions LLC is a Georgia software company. We build and run Pyllar, the scheduling, crew and payments platform for lawn, pest, pool, HVAC and other home service businesses.",
+  "contact": "legal@pyllarhq.com",
+  "effective": "October 27, 2026",
+  "products": [
+    {
+      "name": "Pyllar",
+      "icon": "pyllar.png",
+      "summary": "Plans your weekly routes, guides every crew stop by stop, and gets you paid. On iPhone, iPad, Android and the web.",
+      "url": "https://pyllarhq.com",
+      "privacy": "https://pyllarhq.com/privacy",
+      "terms": "https://pyllarhq.com/terms"
+    }
+  ]
+}
